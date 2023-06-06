@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "647f04ca061d77d0f59a22c8"
+  },
+  "aforizem": "Të hamendësosh është mirë, por të zbulosh është më mirë.",
+  "autori": "Mark Twain",
+  "createdAt": {
+    "$date": "2023-06-06T10:04:59.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:04:59.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f04da061d77d0f59a22cc"
+  },
+  "aforizem": "Mirësjellja është gjuha që edhe i shurdhëti e dëgjon, që edhe i verbëri e shikon.",
+  "autori": "Mark Twain",
+  "createdAt": {
+    "$date": "2023-06-06T10:05:14.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:05:14.237Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0532061d77d0f59a22d0"
+  },
+  "aforizem": "Fjala e duhur është me vend, por asnjë fjalë nuk është aq me vend sa një heshtje në çastin e duhur.",
+  "autori": "Mark Twain",
+  "createdAt": {
+    "$date": "2023-06-06T10:06:42.501Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:06:42.501Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0557061d77d0f59a22d4"
+  },
+  "aforizem": "E vetmja gjë që mungon në parajsë është shoqëria e mirë.",
+  "autori": "Mark Twain",
+  "createdAt": {
+    "$date": "2023-06-06T10:07:19.066Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:07:19.066Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f057d061d77d0f59a22d8"
+  },
+  "aforizem": "Në letërsi jam me të madhin kundër të voglit, kurse në politikë jam me të vegjëlit kundër të mëdhenjve.",
+  "autori": "Victor Hugo",
+  "createdAt": {
+    "$date": "2023-06-06T10:07:57.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:07:57.004Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0587061d77d0f59a22dc"
+  },
+  "aforizem": "Mendimi është puna e intelektit, ndërsa thurja e ëndrrave është argëtimi i tij.",
+  "autori": "Victor Hugo",
+  "createdAt": {
+    "$date": "2023-06-06T10:08:07.834Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:08:07.834Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f05a1061d77d0f59a22e0"
+  },
+  "aforizem": "Zilia është vesi më idiot, pasi nuk ofron asnjë avantazh.",
+  "autori": "Honoré de Balzac",
+  "createdAt": {
+    "$date": "2023-06-06T10:08:33.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:08:33.763Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f05b4061d77d0f59a22e4"
+  },
+  "aforizem": "Vjen një çast në jetën e brendshme familjare, ku fëmijët, me dashje apo pa dashje, bëhen gjykatës të prindërve të tyre.",
+  "autori": "Honoré de Balzac",
+  "createdAt": {
+    "$date": "2023-06-06T10:08:52.198Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:08:52.198Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f05cd061d77d0f59a22e8"
+  },
+  "aforizem": "Në mendjen e gruas së dashuruar, dashuria është krejt bota.",
+  "autori": "Honoré de Balzac",
+  "createdAt": {
+    "$date": "2023-06-06T10:09:17.691Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:09:17.691Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f05e5061d77d0f59a22ec"
+  },
+  "aforizem": "Vetëm të varfrit janë bujarë.",
+  "autori": "Honoré de Balzac",
+  "createdAt": {
+    "$date": "2023-06-06T10:09:41.401Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:09:41.401Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f05fc061d77d0f59a22f0"
+  },
+  "aforizem": "Do të shkruajë gjëra të denja për t’u shkruar vetëm ai që shtyhet vetëm nga gjëja që më shumë ka për zemër.",
+  "autori": "Arthur Schopenhauer",
+  "createdAt": {
+    "$date": "2023-06-06T10:10:04.202Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:10:04.202Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0610061d77d0f59a22f4"
+  },
+  "aforizem": "Çasti më i lumtur i njeriut të lumtur është kur ai bie në gjumë, ashtu si çasti më i palumtur i të palumturit është kur ai zgjohet.",
+  "autori": "Arthur Schopenhauer",
+  "createdAt": {
+    "$date": "2023-06-06T10:10:24.433Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:10:24.433Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0622061d77d0f59a22f8"
+  },
+  "aforizem": "Çdo kokëfortësi bazohet mbi faktin që vullneti ka uzurpuar vendin e diturisë.",
+  "autori": "Arthur Schopenhauer",
+  "createdAt": {
+    "$date": "2023-06-06T10:10:42.907Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:10:42.907Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0648061d77d0f59a22fc"
+  },
+  "aforizem": "Dituria përbëhet nga një lëndë më e fortë se ajo e fesë, sepse kur përplasen, është feja ajo që thyhet.",
+  "autori": "Arthur Schopenhauer",
+  "createdAt": {
+    "$date": "2023-06-06T10:11:20.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:11:20.074Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0651061d77d0f59a2300"
+  },
+  "aforizem": "Njerëzit e rëndomtë kanë shpikur jetën në shoqëri, sepse për ta është më e lehtë të durojnë të tjerët sesa vetveten.",
+  "autori": "Arthur Schopenhauer",
+  "createdAt": {
+    "$date": "2023-06-06T10:11:29.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:11:29.059Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0666061d77d0f59a2304"
+  },
+  "aforizem": "Absurdi ia del me lehtësi të korrë sukses në botë.",
+  "autori": "Arthur Schopenhauer",
+  "createdAt": {
+    "$date": "2023-06-06T10:11:50.190Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:11:50.190Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f067c061d77d0f59a2308"
+  },
+  "aforizem": "Muzika është drita e hënës mbi natën sterrë të jetës.",
+  "autori": "Leon Tolstoi",
+  "createdAt": {
+    "$date": "2023-06-06T10:12:12.699Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:12:12.699Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f068d061d77d0f59a230c"
+  },
+  "aforizem": "Dashuri e vërtetë është vetëm ajo që ka një objekt jo tërheqës.",
+  "autori": "Leon Tolstoi",
+  "createdAt": {
+    "$date": "2023-06-06T10:12:29.786Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:12:29.786Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f069d061d77d0f59a2310"
+  },
+  "aforizem": "Mund të presësh drutë pa dashuri, por nuk mund të ndërveprosh me njerëzit pa dashuri.",
+  "autori": "Leon Tolstoi",
+  "createdAt": {
+    "$date": "2023-06-06T10:12:45.145Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:12:45.145Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f06b1061d77d0f59a2314"
+  },
+  "aforizem": "Fati është si uji në rrjetë: e tërheq dhe të duket plot, kur e nxjerr në breg nuk ka asgjë.",
+  "autori": "Leon Tolstoi",
+  "createdAt": {
+    "$date": "2023-06-06T10:13:05.076Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:13:05.076Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f06da061d77d0f59a2318"
+  },
+  "aforizem": "Thjeshtësia është kushti kryesor i bukurisë morale.",
+  "autori": "Leon Tolstoi",
+  "createdAt": {
+    "$date": "2023-06-06T10:13:46.690Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:13:46.690Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0726061d77d0f59a231c"
+  },
+  "aforizem": "Nëse besojmë bindshëm në diçka që ende nuk ekziston, ne e krijojmë atë. Ajo që ende nuk ekziston është thjesht diçka që nuk e kemi dëshiruar mjaftueshëm.",
+  "autori": "Franz Kafka",
+  "createdAt": {
+    "$date": "2023-06-06T10:15:02.146Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:15:02.146Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0735061d77d0f59a2320"
+  },
+  "aforizem": "Vetmia ime është e mbushur me njerëz.",
+  "autori": "Franz Kafka",
+  "createdAt": {
+    "$date": "2023-06-06T10:15:17.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:15:17.226Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0745061d77d0f59a2324"
+  },
+  "aforizem": "Vuajtja është elementi pozitiv i kësaj bote, madje është e vetmja lidhje mes kësaj bote dhe pozitives.",
+  "autori": "Franz Kafka",
+  "createdAt": {
+    "$date": "2023-06-06T10:15:33.450Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:15:33.450Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f0778061d77d0f59a2328"
+  },
+  "aforizem": "Gjumi është qenia më e pafajshme që mund të ekzistojë dhe njeriu i pagjumë është fajtori më i madh.",
+  "autori": "Franz Kafka",
+  "createdAt": {
+    "$date": "2023-06-06T10:16:24.867Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:16:24.867Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f07ad061d77d0f59a232c"
+  },
+  "aforizem": "Nuk mund të besoj se një fjalë e ëmbël, një rrokje duarsh e heshtur, një shikim i dashur, nuk do të mund të kishin pasur nga unë, gjithçka që dëshirohej.",
+  "autori": "Franz Kafka",
+  "createdAt": {
+    "$date": "2023-06-06T10:17:17.930Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:17:17.930Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f07bb061d77d0f59a2330"
+  },
+  "aforizem": "Ekzistojnë dy mëkate kryesore nga të cilat burojnë gjithë të tjerët: padurimi dhe përtacia.",
+  "autori": "Franz Kafka",
+  "createdAt": {
+    "$date": "2023-06-06T10:17:31.201Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T10:17:31.201Z"
+  },
+  "__v": 0
+}]
